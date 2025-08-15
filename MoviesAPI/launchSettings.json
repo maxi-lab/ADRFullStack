@@ -1,0 +1,21 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "moviesapi": "StartDebugging"
+      }
+    }
+  },
+  "Kestrel": {
+    "Endpoints": {
+      "Http": {
+        "Url": "http://0.0.0.0:5000"
+      },
+      "Https": {
+        "Url": "https://0.0.0.0:5001"
+      }
+    }
+  }
+}

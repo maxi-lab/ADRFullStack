@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\MoviesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97DFC975-2ED1-4393-A1D6-6A8C2F94DCAB}|..\\Services\\Services.csproj|d:\\utn\\administracion de sistemas de informacion\\tp5\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C197C5-FE14-46FF-B237-CA8B7A6EE195}|MoviesAPI\\MoviesAPI.csproj|d:\\utn\\administracion de sistemas de informacion\\tp5\\moviesapi\\moviesapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C197C5-FE14-46FF-B237-CA8B7A6EE195}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C197C5-FE14-46FF-B237-CA8B7A6EE195}|MoviesAPI\\MoviesAPI.csproj|d:\\utn\\administracion de sistemas de informacion\\tp5\\moviesapi\\moviesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C197C5-FE14-46FF-B237-CA8B7A6EE195}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5345F0E6-1AE4-4418-9AF6-2B1EA1558B27}|Core\\Core.csproj|d:\\utn\\administracion de sistemas de informacion\\tp5\\moviesapi\\core\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5345F0E6-1AE4-4418-9AF6-2B1EA1558B27}|Core\\Core.csproj|solutionrelative:core\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED15EC8-14E8-461D-9E54-F5E5A88110EA}|..\\Data\\Data.csproj|d:\\utn\\administracion de sistemas de informacion\\tp5\\data\\dbdevcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355D6FBB-073D-4D2B-8EF8-E05AF8596DA5}|docker-compose.dcproj|d:\\utn\\administracion de sistemas de informacion\\tp5\\moviesapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{355D6FBB-073D-4D2B-8EF8-E05AF8596DA5}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\MovieService.cs",
+              "ToolTip": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\Services\\MovieService.cs",
+              "RelativeToolTip": "..\\Services\\MovieService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T14:25:20.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\MoviesAPI\\MoviesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MoviesAPI\\Program.cs",
+              "ToolTip": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\MoviesAPI\\MoviesAPI\\Program.cs",
+              "RelativeToolTip": "MoviesAPI\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T03:54:52.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbDevContext.cs",
+              "DocumentMoniker": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\Data\\DbDevContext.cs",
+              "RelativeDocumentMoniker": "..\\Data\\DbDevContext.cs",
+              "ToolTip": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\Data\\DbDevContext.cs",
+              "RelativeToolTip": "..\\Data\\DbDevContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T03:30:50.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\MoviesAPI\\MoviesAPI\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MoviesAPI\\Controllers\\MovieController.cs",
+              "ToolTip": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\MoviesAPI\\MoviesAPI\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MoviesAPI\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:55:24.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\MoviesAPI\\Core\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "Core\\MovieDTO.cs",
+              "ToolTip": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\MoviesAPI\\Core\\MovieDTO.cs",
+              "RelativeToolTip": "Core\\MovieDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:47:53.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\MoviesAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\MoviesAPI\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-23T14:28:06.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

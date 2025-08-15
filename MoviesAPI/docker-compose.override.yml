@@ -1,0 +1,14 @@
+version: '3.4'
+
+services:
+  moviesapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=5080
+      - ASPNETCORE_HTTPS_PORTS=5081
+    ports:
+      - "5080"
+      - "5081"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
