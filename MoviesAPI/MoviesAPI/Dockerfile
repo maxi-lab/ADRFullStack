@@ -9,13 +9,10 @@ EXPOSE 5001
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["MoviesAPI/MoviesAPI.csproj", "MoviesAPI/"]
-COPY ["MoviesAPI/Core/Core.csproj", "MoviesAPI/Core/"]
-COPY ["MoviesAPI/Data/Data.csproj", "MoviesAPI/Data/"]
-COPY ["MoviesAPI/Services/Services.csproj", "MoviesAPI/Services/"]
-RUN dotnet restore "./MoviesAPI/MoviesAPI.csproj"
 COPY . .
-WORKDIR "/src/MoviesAPI"
+RUN dotnet restore "./MoviesAPI/MoviesAPI/MoviesAPI.csproj"
+
+WORKDIR "/src/MoviesAPI/MoviesAPI"
 RUN dotnet build "./MoviesAPI.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 FROM build AS publish
@@ -24,6 +21,6 @@ RUN dotnet publish "./MoviesAPI.csproj" -c $BUILD_CONFIGURATION -o /app/publish 
 ENV ASPNETCORE_URLS=http://+:5000;https://+:5001
 
 FROM base AS final
-WORKDIR /src/MoviesAPI
-COPY --from=build /src /src
-ENTRYPOINT ["dotnet", "watch","run","--urls=https://0.0.0.0:5001"]
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "MoviesAPI.dll"]

@@ -9,3 +9,15 @@ D:\UTN\Administracion de sistemas de informacion\TP5\MoviesAPI\Core\obj\Debug\ne
 D:\UTN\Administracion de sistemas de informacion\TP5\MoviesAPI\Core\obj\Debug\net8.0\refint\Core.dll
 D:\UTN\Administracion de sistemas de informacion\TP5\MoviesAPI\Core\obj\Debug\net8.0\Core.pdb
 D:\UTN\Administracion de sistemas de informacion\TP5\MoviesAPI\Core\obj\Debug\net8.0\ref\Core.dll
+D:\UTN\Administracion de sistemas de informacion\TP5\ADRFullStack\MoviesAPI\Core\bin\Debug\net8.0\Core.deps.json
+D:\UTN\Administracion de sistemas de informacion\TP5\ADRFullStack\MoviesAPI\Core\bin\Debug\net8.0\Core.dll
+D:\UTN\Administracion de sistemas de informacion\TP5\ADRFullStack\MoviesAPI\Core\bin\Debug\net8.0\Core.pdb
+D:\UTN\Administracion de sistemas de informacion\TP5\ADRFullStack\MoviesAPI\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\Administracion de sistemas de informacion\TP5\ADRFullStack\MoviesAPI\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\UTN\Administracion de sistemas de informacion\TP5\ADRFullStack\MoviesAPI\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\UTN\Administracion de sistemas de informacion\TP5\ADRFullStack\MoviesAPI\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\UTN\Administracion de sistemas de informacion\TP5\ADRFullStack\MoviesAPI\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\UTN\Administracion de sistemas de informacion\TP5\ADRFullStack\MoviesAPI\Core\obj\Debug\net8.0\Core.dll
+D:\UTN\Administracion de sistemas de informacion\TP5\ADRFullStack\MoviesAPI\Core\obj\Debug\net8.0\refint\Core.dll
+D:\UTN\Administracion de sistemas de informacion\TP5\ADRFullStack\MoviesAPI\Core\obj\Debug\net8.0\Core.pdb
+D:\UTN\Administracion de sistemas de informacion\TP5\ADRFullStack\MoviesAPI\Core\obj\Debug\net8.0\ref\Core.dll

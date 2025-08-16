@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\Data\\Data.csproj": {}
+    "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\Data\\Data.csproj": {}
   },
   "projects": {
-    "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\Data\\Data.csproj": {
+    "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\Data\\Data.csproj",
+        "projectUniqueName": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\Data\\Data.csproj",
+        "projectPath": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Maximo\\.nuget\\packages\\",
-        "outputPath": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\Data\\obj\\",
+        "outputPath": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

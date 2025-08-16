@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cRYRS2sVQJs=",
+  "dgSpecHash": "YZ0oBwb1IjI=",
   "success": true,
-  "projectFilePath": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\Services\\Services.csproj",
+  "projectFilePath": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maximo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Maximo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

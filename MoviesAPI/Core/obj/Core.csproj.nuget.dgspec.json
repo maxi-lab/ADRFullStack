@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\MoviesAPI\\Core\\Core.csproj": {}
+    "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\MoviesAPI\\Core\\Core.csproj": {}
   },
   "projects": {
-    "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\MoviesAPI\\Core\\Core.csproj": {
+    "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\MoviesAPI\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\MoviesAPI\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\MoviesAPI\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\MoviesAPI\\Core\\Core.csproj",
+        "projectPath": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\MoviesAPI\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Maximo\\.nuget\\packages\\",
-        "outputPath": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\MoviesAPI\\Core\\obj\\",
+        "outputPath": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\MoviesAPI\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6LfRG0DGgiY=",
+  "dgSpecHash": "P8/rLXR/j0g=",
   "success": true,
-  "projectFilePath": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
+  "projectFilePath": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maximo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Maximo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
