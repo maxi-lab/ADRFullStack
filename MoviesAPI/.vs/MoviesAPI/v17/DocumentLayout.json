@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\MoviesAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{355D6FBB-073D-4D2B-8EF8-E05AF8596DA5}|docker-compose.dcproj|d:\\utn\\administracion de sistemas de informacion\\tp5\\adrfullstack\\moviesapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{355D6FBB-073D-4D2B-8EF8-E05AF8596DA5}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8C197C5-FE14-46FF-B237-CA8B7A6EE195}|MoviesAPI\\MoviesAPI.csproj|d:\\utn\\administracion de sistemas de informacion\\tp5\\adrfullstack\\moviesapi\\moviesapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D8C197C5-FE14-46FF-B237-CA8B7A6EE195}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{355D6FBB-073D-4D2B-8EF8-E05AF8596DA5}|docker-compose.dcproj|d:\\utn\\administracion de sistemas de informacion\\tp5\\adrfullstack\\moviesapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{355D6FBB-073D-4D2B-8EF8-E05AF8596DA5}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{355D6FBB-073D-4D2B-8EF8-E05AF8596DA5}|docker-compose.dcproj|d:\\utn\\administracion de sistemas de informacion\\tp5\\adrfullstack\\moviesapi\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -29,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\MoviesAPI\\MoviesAPI\\Dockerfile",
               "RelativeDocumentMoniker": "MoviesAPI\\Dockerfile",
@@ -98,15 +98,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\MoviesAPI\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
               "ToolTip": "D:\\UTN\\Administracion de sistemas de informacion\\TP5\\ADRFullStack\\MoviesAPI\\docker-compose.yml",
               "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-16T03:48:21.758Z"
+              "WhenOpened": "2025-08-16T03:48:21.758Z",
+              "EditorCaption": ""
             }
           ]
         }
